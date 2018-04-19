@@ -1,5 +1,5 @@
 var TIME_DELTA = 0.05;
-var playing = false;
+var playing = true;
 
 var count = 0;
 var totalTime = 0;
